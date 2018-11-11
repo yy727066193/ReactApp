@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './assets/style/common/reset.less'
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 

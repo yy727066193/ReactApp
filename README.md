@@ -1,4 +1,4 @@
-# create-react-app
+# create-react-app 集成less postcss antd-mobile
 
 ### 引入less
 - npm i less less-loader -D
