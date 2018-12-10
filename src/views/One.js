@@ -5,6 +5,7 @@ export default class One extends Component {
   render() {
     return(
       <div className="app">
+        HOLLE WORD!
       </div>
     )
   }
